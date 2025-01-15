@@ -30,17 +30,17 @@ Project Workflow
 
 Results
 
-Successfully grouped stocks into 4 distinct clusters, each representing unique performance characteristics such as:
+Successfully grouped stocks into 4 distinct clusters, each representing unique performance characteristics such as:  
 	•	High-growth stocks with high volatility.  
 	•	Stable dividend-paying stocks with low risk.  
 	•	Underperforming stocks with low returns.  
 	•	Volatile speculative stocks with irregular trends.  
-	•	PCA Results: Reduced 10+ features into 2 principal components, retaining 85% of the variance, enabling effective visualization and analysis.  
+	•	PCA Results: Reduced 10+ features into 2 principal components, retaining 85% of the variance, enabling effective 			visualization and analysis.  
 	•	The final clustering provided insights into how stocks can be categorized for tailored investment strategies.  
-
-Key Highlights
+ 
+Key Highlights  
 	•	Effective Clustering Strategy: Leveraged K-Means and PCA to uncover hidden patterns in stock behavior.  
-	•	Business Insights: Enabled identification of stock categories for investors, improving decision-making for portfolio diversification and risk management.  
+	•	Business Insights: Enabled identification of stock categories for investors, improving decision-making for portfolio 			diversification and risk management.  
 	•	Scalable Approach: The methodology is adaptable for larger datasets or inclusion of new financial metrics.  
 
 Conclusion
